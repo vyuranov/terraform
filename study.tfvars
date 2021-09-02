@@ -1,0 +1,6 @@
+cidr_vpc = "10.1.0.0/16"
+cidr_subnet = "10.1.0.0/24"
+availability_zone = "eu-central-1a"
+instance_ami = "ami-0453cb7b5f2b7fca2"
+instance_type = "t2.micro"
+environment_tag = "Study"
